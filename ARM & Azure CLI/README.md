@@ -5,12 +5,7 @@ In this module, we are trying to deploy sql server and database in Azure using A
 
 An ARM template is a JSON(JavaScript Object Notation) file that defines the infrastructure and configuration for our project. The template uses declarative syntax which describes the intended deployment without writing commnds for the deployment.
  
-## UI Look and Feel
-![ServerDeployed | 100x100](./Document/Images/SS1.png)
-![DatabaseDeployed | 100x100](./Document/Images/SS2.png)
 
-
- 
 ## Review the template file
 For the deployment of a database in Azure CLI, deploying a server is must which manages the database. The server places the database within the Azure resource group in a specified region.
 
