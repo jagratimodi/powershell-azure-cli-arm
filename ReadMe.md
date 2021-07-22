@@ -1,1 +1,1 @@
-This will help you to get PowerShell scripts
+This article will help you to learn how to deploy azure resources using PowerShell, Azure CLI and ARM Templates + Azure CLI.
